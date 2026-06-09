@@ -2,7 +2,7 @@
 
 I do growth for AI products: SEO, GEO, and whatever actually makes one grow. I work fast, usually in public, and build most of my own tools.
 
-- 🌱 Co-founding **Estora**, workforce + quoting software for service businesses
+- 🌱 Doing growth at **[ShiftFlow](https://www.shiftflow.app)**, time-tracking & workforce software for field teams
 - ✍️ Writing about AI growth and going global, with strong opinions about milk tea
 - 🛠️ Vibe-coding my own site and open-sourcing the skills I use daily → [Susie-1xin/aislinnyang](https://github.com/Susie-1xin/aislinnyang)
 - 🌍 Bilingual, somewhere between Europe and the Bay
