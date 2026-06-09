@@ -26,9 +26,9 @@
 
 I write about AI growth, going global, and the messy reality of building a product. Mostly on Rednote (小红书):
 
-- [AI 产品三个月 SEO 流量增长 7 倍，我重新确认了哪些事是值得先做的](https://www.xiaohongshu.com/discovery/item/695a861e0000000022032e76)
-- [AI 时代根本没有小而美，只有又快又好又能 scale](https://www.xiaohongshu.com/discovery/item/69e40087000000002102fab8)
-- [来到湾区，聊聊我对 AI 创业的看法](https://www.xiaohongshu.com/discovery/item/69c9678c0000000022002d14)
+- [AI 产品三个月 SEO 流量增长 7 倍，我重新确认了哪些事是值得先做的](https://www.xiaohongshu.com/discovery/item/695a861e0000000022032e76?source=webshare&xhsshare=pc_web&xsec_token=AB_hPfsNqThkmFCs2xh6wQVld-H1Ko58k_Yn6uqJk28_0=&xsec_source=pc_share)
+- [AI 时代根本没有小而美，只有又快又好又能 scale](https://www.xiaohongshu.com/discovery/item/69e40087000000002102fab8?source=webshare&xhsshare=pc_web&xsec_token=ABOVZdFUwtCLQ-0tDn-eoFNmtzflmj9-vG8gqs4VR8eTo=&xsec_source=pc_share)
+- [来到湾区，聊聊我对 AI 创业的看法](https://www.xiaohongshu.com/discovery/item/69c9678c0000000022002d14?source=webshare&xhsshare=pc_web&xsec_token=ABXqSfFQS8Uj0P9gGHh7qvJ_2yFNDAFn_VRQvEO_W4T3U=&xsec_source=pc_share)
 
 → more at **@苏西Aislinn** on Rednote
 
